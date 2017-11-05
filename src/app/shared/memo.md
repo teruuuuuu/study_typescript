@@ -1,0 +1,1 @@
+アプリ全体で使用するcomponenやpipe、filterなどはcoreではなくこっちに定義する
